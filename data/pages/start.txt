@@ -1,5 +1,7 @@
 ====== Wiki de l'IRESN ======
 
+Ce Wiki peut être consulté par tous, mais ne peut être édité que par les membres du laboratoire.
+
 [[https://iresn.fr|Site de l'IRESN]]
 
 ====== Séminaires ======
