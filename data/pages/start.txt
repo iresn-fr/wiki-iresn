@@ -1,7 +1,7 @@
 ====== Wiki de l'IRESN ======
 
 Ce Wiki peut être consulté par tous, mais ne peut être édité que par les membres du laboratoire.
-Les rédacteurs peuvent trouver en ligne de l'aide sur la [[wiki:syntax|syntaxe du wiki]]
+Les rédacteurs peuvent trouver en ligne de l'aide sur la [[wiki:syntax|syntaxe du wiki]], et le [[https://www.dokuwiki.org/fr:dokuwiki|manuel en français]].
 
 [[https://iresn.fr|Site de l'IRESN]]
 
